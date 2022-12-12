@@ -48,7 +48,7 @@ Respect should be the default, but trust is largely earned over time and is comp
 * Make sure you've done your homework before bringing someone else in to help. There are people I work with who always get my attention when they ping me because I've learned to trust that they always raise a good question or topic. Contrary to popular belief, there is in fact such a thing as a bad question. [This site](https://letmegooglethat.com/) exists for a reason.
 * As a junior, it is better to freely admit you don't know something than to guess. People will know if you're bullshitting and it will erode their opinion of you. Easier said than done for most people but being self-assured enough of your own intelligence and skills to be comfortable with your own ignorance or misunderstanding is incredibly freeing. One of the smartest people I've met let alone worked with has no qualms about asking for clarification or stating when he's unsure about something.
 
-#### Quick Wins Anyone Can Do
+### Quick Wins Anyone Can Do
 
 Seriously, if you want to win the hearts and minds of your new team members, document what you're learning as you go and volunteer for the tasks that make other people sigh when they're spoken of. Not only is everything a learning opportunity for you when you're new, other people will remember when you saved them from having to do a task they were dreading even if they had to answer a bunch of questions about it.
 
@@ -71,3 +71,5 @@ But seriously, `ABL` and more specifically, get good at teaching yourself things
 - Read (and Google) error messages, someone spent a lot of time writing error handling and trying to give you useful information.
 - Try to understand, at least at a high level, the software development lifecycle at your company within the first few weeks. A good way to approach this is to pick a repository and map out how code goes from a developer's machine to production. Start with just system to system: `local -> GitHub -> CI -> CD -> Develop -> UAT -> Staging -> Prod` then recursively dig into the actual processes happening in each system until you understand the same regular abstraction layers as your senior colleagues. This will provide a great foundational understanding of things you're likely responsible for and will help get you in the mix sooner.
 - Work with your supervisor, or even ask senior colleagues for input on a career development plan. You should orient yourself with the expectations of the next level up and use those to guide your progress.
+
+That's about all I'm going to write for now but if this was useful to you or you have any other comments or suggestions then I'd love to hear from you!
