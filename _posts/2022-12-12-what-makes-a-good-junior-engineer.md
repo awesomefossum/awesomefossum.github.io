@@ -32,7 +32,7 @@ Office politics can sometimes be tiresome and has a nasty reputation, but it's a
 
 If politics is the consequence of humans working together despite different ideas and priorities, communication is the engine. Below are a few tips on how to communicate effectively and some things to avoid.
 
-- https://nohello.net/
+- [No Hello](https://nohello.net/)
 - For the love of all that is holy, realize that people are smart and things are often the way they are for reasons that you have no knowledge of. Asking why is great, but reserve judgement on merit until you have a more comprehensive understanding of the thing you might be criticizing.
 - Internalize the fact that many of the people you will be working with take a lot of pride in their work. While continuous improvement is an essential part of software development, be careful that you're not calling someone's baby ugly.
 - Internalize the fact that as you level up your technical skills, your ability to drive impactful projects and make meaningful achievements is going to be hugely hampered or enabled by your colleague's opinion of you. If you make people feel bad or are difficult to work with then you will be hamstrung in terms of your ability to get other people pulling in the same direction as you.
